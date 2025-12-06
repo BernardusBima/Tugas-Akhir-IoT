@@ -10,6 +10,11 @@ Sistem ini adalah solusi IoT berbasis **NodeMCU ESP8266** yang berfungsi untuk m
 
 ![Dashboard Web](https://github.com/BernardusBima/Tugas-Akhir-IoT/blob/main/image/dashboard.png)
 
+
+## 📸 Rangkaian ESP8266
+![Randkaian](https://github.com/BernardusBima/Tugas-Akhir-IoT/blob/main/image/rangkaian.jpg)
+
+
 ---
 
 ## 🛠️ Fitur Utama
