@@ -111,9 +111,9 @@ Berikut adalah konfigurasi pin pada NodeMCU ESP8266:
 Project ini disusun oleh:
 
 1.  **Natalie Gabriel**
-    * NIM: G.231.23.0057
-2.  **Bernardus Bima**
     * NIM: G.231.23.0050
+2.  **Bernardus Bima**
+    * NIM: G.231.23.0057
 
 ---
 
